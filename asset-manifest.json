@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-updated-portfolio/static/css/main.1621527a.css",
-    "main.js": "/react-updated-portfolio/static/js/main.bdf340e2.js",
-    "static/media/realtorApp.png": "/react-updated-portfolio/static/media/realtorApp.a93a2d04102728113516.png",
-    "static/media/ProfilePicture.jpg": "/react-updated-portfolio/static/media/ProfilePicture.d4be7eb35082876de986.jpg",
-    "static/media/new-york-city.jpeg": "/react-updated-portfolio/static/media/new-york-city.47571954a4fcf04d52ea.jpeg",
-    "static/media/batista.jpg": "/react-updated-portfolio/static/media/batista.b9c297c7c624445875fa.jpg",
-    "index.html": "/react-updated-portfolio/index.html",
-    "main.1621527a.css.map": "/react-updated-portfolio/static/css/main.1621527a.css.map",
-    "main.bdf340e2.js.map": "/react-updated-portfolio/static/js/main.bdf340e2.js.map"
+    "main.css": "/react-application-portfolio/static/css/main.0e73faec.css",
+    "main.js": "/react-application-portfolio/static/js/main.751dd364.js",
+    "static/media/realtorApp.png": "/react-application-portfolio/static/media/realtorApp.a93a2d04102728113516.png",
+    "static/media/ProfilePicture.jpg": "/react-application-portfolio/static/media/ProfilePicture.d4be7eb35082876de986.jpg",
+    "static/media/new-york-city.jpeg": "/react-application-portfolio/static/media/new-york-city.47571954a4fcf04d52ea.jpeg",
+    "static/media/batista.jpg": "/react-application-portfolio/static/media/batista.b9c297c7c624445875fa.jpg",
+    "index.html": "/react-application-portfolio/index.html",
+    "main.0e73faec.css.map": "/react-application-portfolio/static/css/main.0e73faec.css.map",
+    "main.751dd364.js.map": "/react-application-portfolio/static/js/main.751dd364.js.map"
   },
   "entrypoints": [
-    "static/css/main.1621527a.css",
-    "static/js/main.bdf340e2.js"
+    "static/css/main.0e73faec.css",
+    "static/js/main.751dd364.js"
   ]
 }
