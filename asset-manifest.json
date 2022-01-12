@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-application-portfolio/static/css/main.0e73faec.css",
-    "main.js": "/react-application-portfolio/static/js/main.751dd364.js",
+    "main.js": "/react-application-portfolio/static/js/main.dd706f28.js",
     "static/media/realtorApp.png": "/react-application-portfolio/static/media/realtorApp.a93a2d04102728113516.png",
     "static/media/ProfilePicture.jpg": "/react-application-portfolio/static/media/ProfilePicture.d4be7eb35082876de986.jpg",
     "static/media/new-york-city.jpeg": "/react-application-portfolio/static/media/new-york-city.47571954a4fcf04d52ea.jpeg",
     "static/media/batista.jpg": "/react-application-portfolio/static/media/batista.b9c297c7c624445875fa.jpg",
     "index.html": "/react-application-portfolio/index.html",
     "main.0e73faec.css.map": "/react-application-portfolio/static/css/main.0e73faec.css.map",
-    "main.751dd364.js.map": "/react-application-portfolio/static/js/main.751dd364.js.map"
+    "main.dd706f28.js.map": "/react-application-portfolio/static/js/main.dd706f28.js.map"
   },
   "entrypoints": [
     "static/css/main.0e73faec.css",
-    "static/js/main.751dd364.js"
+    "static/js/main.dd706f28.js"
   ]
 }
